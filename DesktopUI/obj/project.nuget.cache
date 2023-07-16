@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BeFS4DlVeGuW6GY0Z465235kRG//DclaVauvKt8QEfvfj2UnTc5upYHyQrC/trvhCzCvZhtocBxrC7gDZDplwA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\StudentUI\\DesktopUI\\DesktopUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tisha\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
